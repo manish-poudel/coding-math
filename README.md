@@ -1,5 +1,5 @@
 # coding-math
-Doing cool math stuffs using python.
+Doing cool math stuffs using code particulary using Python and JS.
 
 This repo will be about bringing math to life. 
 
