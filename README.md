@@ -1,5 +1,5 @@
 # coding-math
-Doing cool math stuffs or say bringing math to life using code.
+Doing cool math stuffs or say, bringing math to life using code.
 
 I will use Python or JS.
 
